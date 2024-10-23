@@ -214,7 +214,15 @@ body {
   font-family: "Source Sans 3", sans-serif;
   font-size: 1.1rem;
   color: #9F9F9F;
+  cursor: pointer;
 }
+
+
+.pet.filter .active {
+  color: #475AFF;
+}
+
+
 
 .site-footer p {
   text-align: center;
